@@ -1,7 +1,7 @@
 # projects-demo
 
 
-## Demo urls:
+## Demo video urls:
 
 ### iOS development - Fresh grocery app
 https://youtu.be/IrbiyiMLmBw
