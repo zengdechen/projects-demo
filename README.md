@@ -1,16 +1,16 @@
 # projects-demo
 
 
-demo urls:
+## Demo urls:
 
-## iOS development - Fresh grocery app
+### iOS development - Fresh grocery app
 https://youtu.be/IrbiyiMLmBw
 
-## SaaS website - Furniture groupon
+### SaaS website - Furniture groupon
 https://youtu.be/qh-aCXCjjr8
 
-## Mosaic machine - Mosaic custumizer
+### Mosaic machine - Mosaic customizer
 https://youtu.be/4qGs3fOvefs
 
-## Ship remodel - Ship scanning and remodel
+### Ship remodel - Ship scanning and remodel
 https://youtu.be/aFUz_9PGOr0
