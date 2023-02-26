@@ -17,3 +17,6 @@ https://youtu.be/qh-aCXCjjr8
 
 ### Music Trends Visualization
 https://youtu.be/dkTZ6BH75lw
+
+### Mosaic Making Robot
+
